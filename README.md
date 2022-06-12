@@ -15,7 +15,7 @@
 11.	https://github.com/lbuetgit/OSSLab_Final_VoiceAssistent	(Video: https://youtu.be/c44tYWjxn_Y)
 12.	https://github.com/Seo-Yegyeong/vim-easy-bracket	(Video: https://youtu.be/T1PbJDsTi7c)
 13.	https://github.com/YMSeo-0918/2022OSSFINAL.git	(Video: https://youtu.be/2Z8ii7G0nlA)
-14.	https://github.com/diduuuuu/OSS_final-project_JisuShin	(Video: https://youtu.be/Lq5qte5l4L8 video unavailable)
+14.	https://github.com/diduuuuu/OSS_final-project_JisuShin	(Video: https://youtu.be/Lq5qte5l4L8 Unavailable)
 15.	https://github.com/21700415/OSS_FINAL	(Video: https://youtu.be/hU_e4EWgHQg)
 
 2/2
