@@ -24,7 +24,7 @@
 17.	https://github.com/Jan271001/Face_Identification	(Video: https://youtu.be/SG-A-O6H3jk)
 18.	https://github.com/YooJuno/OSSL_Final_21800471	(Video: https://youtu.be/HiS8pvgA-Fc)
 19.	https://github.com/kijul123/OSS_FinalProject.git	(Video: https://youtu.be/nkzt-gXtAd0)
-20.	https://github.com/leedokyeong-h/OSS-project	(Video: https://youtu.be/HURjq_TbXOE)
+20.	https://github.com/leedokyeong-h/OSS-project	(Video: https://youtu.be/HURjq_TbXOE Unavailable)
 21.	https://github.com/skLee-HGU/FocusTime	(Video: https://youtu.be/KGAkDajNzEA)
 22.	https://github.com/leeejjju/OSSLab_Final_BabgoToday	(Video: https://youtu.be/IzXg70JbmOM)
 23.	https://github.com/wnghks7787/TCT.git	(Video: https://youtu.be/tyWZqLgt-ew)
