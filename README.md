@@ -20,7 +20,7 @@
 
 2/2
 
-16.	https://github.com/diduuuuu/OSS_final-project_JisuShin	(Video: https://youtu.be/Lq5qte5l4L8 Unavailable)
+16.	https://github.com/diduuuuu/OSS_final-project_JisuShin	(Video: https://youtu.be/Lq5qte5l4L8)
 17.	https://github.com/Jan271001/Face_Identification	(Video: https://youtu.be/SG-A-O6H3jk)
 18.	https://github.com/YooJuno/OSSL_Final_21800471	(Video: https://youtu.be/HiS8pvgA-Fc)
 19.	https://github.com/kijul123/OSS_FinalProject.git	(Video: https://youtu.be/nkzt-gXtAd0)
